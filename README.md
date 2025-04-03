@@ -7,6 +7,16 @@
 
 ## 🚨 核心功能
 
+### 运行界面
+![image](https://github.com/user-attachments/assets/11542e6a-8614-43ff-9ee3-35b2eea1ebe5)
+![image](https://github.com/user-attachments/assets/c89ef468-7ac1-413a-8da8-46f226ac07d2)
+![image](https://github.com/user-attachments/assets/3e84c370-4f72-498a-956b-b7fa357cb6f5)
+![image](https://github.com/user-attachments/assets/243b2132-f5ac-42b6-9fb0-44a47d279bda)
+
+
+
+
+
 ### 模拟系统
 - 资金余额实时计算
 - 下注历史记录追踪
